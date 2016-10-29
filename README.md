@@ -8,4 +8,4 @@ HW4 Files:
 4) q2_hw4.m - Solves for the charge density(electron) in the Silicon Substrate
 5) possion_sio2.m - Poisson Equations for SiO2-Si interface (MOS). Interfacial Voltage doesn't converge.
 6) q2_interface_hw4.m - Same as q2 for Si-Sio2 interface
-7) randomwalk.m - A random walk solution to 1D diffusion equation
+7) randomwalk.m - A random walk solution to 1D diffusion equation with (1/2 1/4 1/2) coefficients
